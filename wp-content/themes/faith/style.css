@@ -13,9 +13,11 @@ Text Domain: faith
 Tags: education, footer-widgets, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-colors, custom-menu, editor-style, featured-images, full-width-template, theme-options, threaded-comments, translation-ready
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 /* rubik-regular - latin */
 @font-face {
-  font-family: 'Rubik';
+	font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -25,7 +27,7 @@ Tags: education, footer-widgets, one-column, two-columns, left-sidebar, right-si
 }
 /* rubik-600 - latin */
 @font-face {
-  font-family: 'Rubik';
+	font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -35,7 +37,7 @@ Tags: education, footer-widgets, one-column, two-columns, left-sidebar, right-si
 }
 /* rubik-700 - latin */
 @font-face {
-  font-family: 'Rubik';
+	font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -45,7 +47,7 @@ Tags: education, footer-widgets, one-column, two-columns, left-sidebar, right-si
 }
 /* rubik-italic - latin */
 @font-face {
-  font-family: 'Rubik';
+	font-family: 'Poppins', sans-serif;
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -55,7 +57,7 @@ Tags: education, footer-widgets, one-column, two-columns, left-sidebar, right-si
 }
 /* rubik-600italic - latin */
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Poppins', sans-serif;
   font-style: italic;
   font-weight: 600;
   font-display: swap;
@@ -65,7 +67,7 @@ Tags: education, footer-widgets, one-column, two-columns, left-sidebar, right-si
 }
 /* rubik-700italic - latin */
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Poppins', sans-serif;
   font-style: italic;
   font-weight: 700;
   font-display: swap;
