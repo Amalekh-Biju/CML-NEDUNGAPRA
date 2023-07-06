@@ -120,9 +120,17 @@ template.innerHTML = `
 <!-- #site-header-navigation -->
 						
 		</div>
+</header>
 <!-- .wrapper .wrapper-header -->
-
-	</header><!-- .site-header --><div id="ilovewp-hero" class="ilovewp-hero-blankfill">
+<div id="ilovewp-hero" class="ilovewp-hero-withimage">
+		<div class="ilovewp-hero-wrapper" style="background-image: url(../wp-content/uploads/2023/header.jpg);">
+			<div class="slide-mobile-thumbnail">
+<img width="1280" height="400" src="../wp-content/uploads/2023/header.jpg" class="mobile-thumbnail-large wp-post-image" alt="" loading="eager"><img width="480" height="300" src="../wp-content/uploads/2022/05/IMG_4127-480x300.jpg" class="mobile-thumbnail-normal wp-post-image" alt="" loading="eager">
+</div>
+		</div>
+<!-- .ilovewp-hero-wrapper -->
 	</div>
+<!-- #ilovewp-hero -->
+
 `
 document.body.appendChild(template.content);
